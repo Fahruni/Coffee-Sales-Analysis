@@ -80,4 +80,4 @@ This analysis is mainly focused on analysing and finding pattern of a dataset of
 
 ### Conclusion
 
-This analysis provides a comprehensive overview of the coffee sales data, highlighting key trends, customer behaviors, and geographical distribution of sales. The interactive dashboard facilitates easy exploration and presentation of the insights derived from the data. The project file can easily be accessed by clicking <b>[here](https://github.com/Fahruni/Coffee-Sales-Analysis/blob/main/assets/Coffee%20Sales%20Analysis.xlsx)</b> in which you can personally interact with the dashboard.
+This analysis provides a comprehensive overview of the coffee sales data, highlighting key trends, customer behaviors, and geographical distribution of sales. The interactive dashboard facilitates easy exploration and presentation of the insights derived from the data. The project can easily be accessed by downloading the file <b>[here](https://github.com/Fahruni/Coffee-Sales-Analysis/blob/main/assets/Coffee%20Sales%20Analysis.xlsx)</b> in which you can personally interact with the dashboard.
