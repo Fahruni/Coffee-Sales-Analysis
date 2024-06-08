@@ -37,9 +37,9 @@ This analysis is mainly focused on analysing and finding pattern of a dataset of
    - Created new columns `Coffee Type Name` and `Roast Type Name` to replace abbreviations with full names. Used the `IF` function for this purpose:
      ```excel
      =IF(I2="Rob","Robusta",IF(I2="Exc","Excelsa",IF(I2="Ara","Arabica",IF(I2="Lib","Liberica",""))))
-
-     &
-
+     ```
+     
+     ```excel
      =IF(J2="M","Medium",IF(J2="L","Light",IF(J2="D","Dark","")))
      ```
 
