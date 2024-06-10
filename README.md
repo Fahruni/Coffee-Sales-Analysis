@@ -6,7 +6,7 @@ This analysis is mainly focused on analysing and finding pattern of a dataset of
 
 ### Preview of The Final Product of This Project
 
-![final_dashboard](/assets/DashboardPreview.png)
+![final_dashboard](assets/DashboardPreview.png)
 
 ## Project Structure
 
